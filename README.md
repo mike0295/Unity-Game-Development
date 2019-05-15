@@ -1,1 +1,6 @@
-# Unity-Game-Development
+# Unity Game Development
+## We aim to 
+
+Introduction - Unity?
+## Unity Study links & files
+## Projects
