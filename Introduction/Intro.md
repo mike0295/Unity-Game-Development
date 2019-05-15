@@ -21,6 +21,9 @@ Unity offers primary scripting API in **C#**, hence knowledge and experience in 
 ## 1.2 Supported Platforms:
 **iOS**, **Android**, Tizen, **Windows**, Universal Windows Platform, **Mac**, **Linux**, WebGL, **PlayStation4**, PlayStation Vita, **Xbox One**, **3DS**, **Oculus Rift**, Google Cardboard, **Steam VR**, **PlayStation VR**, Gear VR, Windows Mixed Reality, Daydream, Android TV, Samsung Smart TV, tvOS, **Nintendo Switch**, Fire OS, Facebook Gameroom, Apple's ARKit, Google's ARCore, Vuforia, and Magic Leap. 
 
+
+
 ---------------------------
-##### Sources:
+
+## Sources:
 https://en.wikipedia.org/wiki/Unity_(game_engine)#Supported_platforms
