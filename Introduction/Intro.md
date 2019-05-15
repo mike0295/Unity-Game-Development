@@ -1,7 +1,7 @@
 # 1. What is Unity?
 
+<img src="https://github.com/mike0295/Unity-Game-Development/blob/master/Introduction/photos/unity_logo.png" width="300" height="109">
 
-![Alt text](https://github.com/mike0295/Unity-Game-Development/blob/master/Introduction/photos/unity_logo.png "Unity Logo")
 
 Unity is a cross-platform game engine developed by Unity Technologies. 
 
