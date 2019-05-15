@@ -3,7 +3,7 @@ Mastering Unity and game development
 Open-source projects by some random students
 
 ## Contents
-* [Introduction - Unity?](https://github.com/mike0295/Unity-Game-Development/blob/master/Introduction/Unity.md)
+* [Introduction - Unity?](https://github.com/mike0295/Unity-Game-Development/blob/master/Introduction/Intro.md)
 * Unity Study links & files ()
   + Beginner ()
   + Intermediate ()
