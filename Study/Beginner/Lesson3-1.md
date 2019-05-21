@@ -10,8 +10,8 @@ Create a simple **stage/level** for a "Bouncy Ball" style game
 <img src="https://github.com/mike0295/Unity-Game-Development/blob/master/Study/photos/1_bouncy_ball.jpg">
 
 
-### Constraits:
-* The ball is always bouncing as default (no button needed to be pressed)
+### Constraints:
+* The ball is always bouncing as default (no button needed to be pressed for jump)
 * Use either AD or arrow buttons to move sideways
 * Have a 'spawn' location
 * Have a 'goal' destination
