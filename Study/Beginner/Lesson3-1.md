@@ -5,7 +5,10 @@ Now, you can implement unlimited number of movements and interactions! (with hel
 However, in order for your creation to be a game, you will need a main menu, pause and a proper game concept!
 
 ## Task
-Create a simple **stage/level** for a "Bouncy Ball" style game 
+Create a simple **stage/level** for a "Bouncy Ball" style game
+
+<img src="https://github.com/mike0295/Unity-Game-Development/blob/master/Study/photos/1_bouncy_ball.jpg">
+
 
 ### Constraits:
 * The ball is always bouncing as default (no button needed to be pressed)
