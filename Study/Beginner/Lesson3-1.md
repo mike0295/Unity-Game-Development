@@ -1,8 +1,8 @@
 # Lesson 3 - 1
-If you have completed the last lesson ([Lesson 2](https://github.com/mike0295/Unity-Game-Development/blob/master/Study/Beginner/Lesson2.md)), you will now have a basis for a simple 2D platformer.
+If you have completed the last lesson ([Lesson 2](https://github.com/mike0295/Unity-Game-Development/blob/master/Study/Beginner/Lesson2.md)), you now have a basis to create a simple 2D platformer.
 Now, you can implement unlimited number of movements and interactions! (with help from your best friend Google...)
 
-However, in order for your creation to be a game, you will need a main menu, pause and a proper game concept!
+However, a real game will need a main menu, pause and a proper game concept!
 
 ## Task
 Create a simple **stage/level** for a "Bouncy Ball" style game
