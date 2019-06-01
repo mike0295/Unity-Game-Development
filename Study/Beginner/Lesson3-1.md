@@ -21,3 +21,7 @@ Create a simple **stage/level** for a "Bouncy Ball" style game
   + When the ball dies, print "Dead" in console
   + The ball must automatically spawn back in spawn location
 
+## Useful Links
+* [Transform.position](https://docs.unity3d.com/ScriptReference/Transform-position.html) ([Korean](https://docs.unity3d.com/kr/530/ScriptReference/Transform-position.html)): Changing position of object
+* [OnTriggerEnter2D()](https://docs.unity3d.com/kr/530/ScriptReference/MonoBehaviour.OnTriggerEnter2D.html): If you use a specific area (over a platform) as destination
+* [OnCollisionEnter2D()](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnCollisionEnter2D.html) ([Korean](https://docs.unity3d.com/kr/530/ScriptReference/MonoBehaviour.OnCollisionEnter2D.html)): If you use a specific platform as destination
