@@ -16,3 +16,12 @@ You will create a **very** simple 3D game in Unity, just to get the hang of basi
 You will create a basis for a 2D game, where a player moves and jumps in a simple platform environment.
 You will also learn more concepts of game execution in Unity, such as the difference between Start() and Awake(), Update() and FixedUpdate().
 
+-------------------
+
+### [Lesson 3-1: Bouncy Ball: Character Death & Respawn](https://github.com/mike0295/Unity-Game-Development/blob/master/Study/Beginner/Lesson3-1.md)
+
+
+-------------------
+
+### [Lesson 3-2: Bouncy Ball: Main Menu, Pause, Level Clear](https://github.com/mike0295/Unity-Game-Development/blob/master/Study/Beginner/Lesson3-2.md)
+
